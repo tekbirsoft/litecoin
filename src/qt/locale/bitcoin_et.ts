@@ -62,12 +62,12 @@
         <translation>Vastuvõtvad aadressid</translation>
     </message>
     <message>
-        <source>These are your Husancoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Need on sinu Husancoin aadressid maksete saatmiseks. Ennem müntide saatmist kontrolli alati summat ja makse saaja aadressi.</translation>
+        <source>These are your Husamcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Need on sinu Husamcoin aadressid maksete saatmiseks. Ennem müntide saatmist kontrolli alati summat ja makse saaja aadressi.</translation>
     </message>
     <message>
-        <source>These are your Husancoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Need on sinu Husancoin aadressid sisenevate maksete vastu võtmiseks. Soovitav on iga tehingu tarbeks kasutada uut aadressi.</translation>
+        <source>These are your Husamcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Need on sinu Husamcoin aadressid sisenevate maksete vastu võtmiseks. Soovitav on iga tehingu tarbeks kasutada uut aadressi.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -290,8 +290,8 @@
         <translation>Kettal olevate blokkide re-indekseerimine...</translation>
     </message>
     <message>
-        <source>Send coins to a Husancoin address</source>
-        <translation>Saada münte Husancoini aadressile</translation>
+        <source>Send coins to a Husamcoin address</source>
+        <translation>Saada münte Husamcoini aadressile</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -314,8 +314,8 @@
         <translation>&amp;Kontrolli sõnumit...</translation>
     </message>
     <message>
-        <source>Husancoin</source>
-        <translation>Husancoin</translation>
+        <source>Husamcoin</source>
+        <translation>Husamcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -342,12 +342,12 @@
         <translation>Krüpteeri oma rahakoti privaatvõtmed</translation>
     </message>
     <message>
-        <source>Sign messages with your Husancoin addresses to prove you own them</source>
-        <translation>Omandi tõestamiseks allkirjasta sõnumid oma Husancoini aadressiga</translation>
+        <source>Sign messages with your Husamcoin addresses to prove you own them</source>
+        <translation>Omandi tõestamiseks allkirjasta sõnumid oma Husamcoini aadressiga</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Husancoin addresses</source>
-        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud Husancoini aadressiga</translation>
+        <source>Verify messages to ensure they were signed with specified Husamcoin addresses</source>
+        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud Husamcoini aadressiga</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -378,8 +378,8 @@
         <translation>Käsurea valikud</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Husancoin network</source>
-        <translation><numerusform>%n aktiivne ühendus Husancoini võrku</numerusform><numerusform>%n aktiivset ühendust Husancoini võrku</numerusform></translation>
+        <source>%n active connection(s) to Husamcoin network</source>
+        <translation><numerusform>%n aktiivne ühendus Husamcoini võrku</numerusform><numerusform>%n aktiivset ühendust Husamcoini võrku</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -626,8 +626,8 @@
         <translation>Muuda saatvat aadressi</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Husancoin address.</source>
-        <translation>Sisestatud aadress "%1" ei ole korrektne Husancoin aadress.</translation>
+        <source>The entered address "%1" is not a valid Husamcoin address.</source>
+        <translation>Sisestatud aadress "%1" ei ole korrektne Husamcoin aadress.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -756,8 +756,8 @@
         <translation>Ekspert</translation>
     </message>
     <message>
-        <source>Automatically open the Husancoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Husancoini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
+        <source>Automatically open the Husamcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Husamcoini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -855,7 +855,7 @@
         <translation>Vorm</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Husancoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Husamcoin network after a connection is established, but this process has not completed yet.</source>
         <translation>Kuvatav info ei pruugi olla ajakohane. Ühenduse loomisel süngitakse sinu rahakott automaatselt Liteconi võrgustikuga, kuid see toiming on hetkel lõpetamata.</translation>
     </message>
     <message>
@@ -1337,8 +1337,8 @@
         <translation>Maksepäring aegunud.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Husancoin address</source>
-        <translation>Hoiatus: Ebakorrektne Husancoin aadress</translation>
+        <source>Warning: Invalid Husamcoin address</source>
+        <translation>Hoiatus: Ebakorrektne Husamcoin aadress</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1417,8 +1417,8 @@
         <translation>&amp;Allkirjastamise teade</translation>
     </message>
     <message>
-        <source>The Husancoin address to sign the message with</source>
-        <translation>Husancoin aadress millega sõnum allkirjastada</translation>
+        <source>The Husamcoin address to sign the message with</source>
+        <translation>Husamcoin aadress millega sõnum allkirjastada</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1449,8 +1449,8 @@
         <translation>Kopeeri praegune signatuur vahemällu</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Husancoin address</source>
-        <translation>Allkirjasta sõnum Husancoini aadressi sulle kuulumise tõestamiseks</translation>
+        <source>Sign the message to prove you own this Husamcoin address</source>
+        <translation>Allkirjasta sõnum Husamcoini aadressi sulle kuulumise tõestamiseks</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1469,12 +1469,12 @@
         <translation>&amp;Kinnita Sõnum</translation>
     </message>
     <message>
-        <source>The Husancoin address the message was signed with</source>
-        <translation>Husancoin aadress millega sõnum on allkirjastatud</translation>
+        <source>The Husamcoin address the message was signed with</source>
+        <translation>Husamcoin aadress millega sõnum on allkirjastatud</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Husancoin address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Husancoini aadressiga.</translation>
+        <source>Verify the message to ensure it was signed with the specified Husamcoin address</source>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Husamcoini aadressiga.</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1758,8 +1758,8 @@
         <translation>Tööta taustal ning aktsepteeri käsklusi</translation>
     </message>
     <message>
-        <source>Husancoin Core</source>
-        <translation>Husancoini tuumik</translation>
+        <source>Husamcoin Core</source>
+        <translation>Husamcoini tuumik</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>

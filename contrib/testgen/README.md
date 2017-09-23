@@ -1,6 +1,6 @@
 ### TestGen ###
 
-Utilities to generate test vectors for the data-driven Husancoin tests.
+Utilities to generate test vectors for the data-driven Husamcoin tests.
 
 Usage: 
 

@@ -62,12 +62,12 @@
         <translation>Mottager adresser</translation>
     </message>
     <message>
-        <source>These are your Husancoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dette er dine Husancoin adresser for å sende  å sende betalinger. Husk å sjekke beløp og mottager adresser før du sender mynter.</translation>
+        <source>These are your Husamcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Dette er dine Husamcoin adresser for å sende  å sende betalinger. Husk å sjekke beløp og mottager adresser før du sender mynter.</translation>
     </message>
     <message>
-        <source>These are your Husancoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Dette er dine Husancoin adresse for å motta betalinger. Det er anbefalt å bruke en ny mottager adresse for hver transaksjon.</translation>
+        <source>These are your Husamcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Dette er dine Husamcoin adresse for å motta betalinger. Det er anbefalt å bruke en ny mottager adresse for hver transaksjon.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -338,8 +338,8 @@
         <translation>Reindekserer blokker på disken</translation>
     </message>
     <message>
-        <source>Send coins to a Husancoin address</source>
-        <translation>Send mynter til en Husancoin adresse</translation>
+        <source>Send coins to a Husamcoin address</source>
+        <translation>Send mynter til en Husamcoin adresse</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -362,8 +362,8 @@
         <translation>&amp;Verifiser meldingen...</translation>
     </message>
     <message>
-        <source>Husancoin</source>
-        <translation>Husancoin</translation>
+        <source>Husamcoin</source>
+        <translation>Husamcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -390,12 +390,12 @@
         <translation>Krypter de private nøklene som tilhører lommeboken din</translation>
     </message>
     <message>
-        <source>Sign messages with your Husancoin addresses to prove you own them</source>
-        <translation>Signer meldingene med Husancoin adresse for å bevise at diu eier dem</translation>
+        <source>Sign messages with your Husamcoin addresses to prove you own them</source>
+        <translation>Signer meldingene med Husamcoin adresse for å bevise at diu eier dem</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Husancoin addresses</source>
-        <translation>Verifiser meldinger for å sikre at de ble signert med en angitt Husancoin adresse</translation>
+        <source>Verify messages to ensure they were signed with specified Husamcoin addresses</source>
+        <translation>Verifiser meldinger for å sikre at de ble signert med en angitt Husamcoin adresse</translation>
     </message>
     <message>
         <source>&amp;File</source>

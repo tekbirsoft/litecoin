@@ -130,7 +130,7 @@
         <translation>Промени &amp;лозинку...</translation>
     </message>
     <message>
-        <source>Send coins to a Husancoin address</source>
+        <source>Send coins to a Husamcoin address</source>
         <translation>Пошаљите новац на husancoin адресу</translation>
     </message>
     <message>

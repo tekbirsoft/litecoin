@@ -46,12 +46,12 @@
         <translation>Duke marr adresen</translation>
     </message>
     <message>
-        <source>These are your Husancoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Këto janë Husancoin adresat e juaja për të dërguar pagesa. Gjithmon kontrolloni shumën dhe adresën pranuese para se të dërgoni monedha.</translation>
+        <source>These are your Husamcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Këto janë Husamcoin adresat e juaja për të dërguar pagesa. Gjithmon kontrolloni shumën dhe adresën pranuese para se të dërgoni monedha.</translation>
     </message>
     <message>
-        <source>These are your Husancoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Këto janë Husancoin adresat e juaja për të pranuar pagesa. Rekomandohet që gjithmon të përdorni një adresë të re për çdo transaksion.</translation>
+        <source>These are your Husamcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Këto janë Husamcoin adresat e juaja për të pranuar pagesa. Rekomandohet që gjithmon të përdorni një adresë të re për çdo transaksion.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -214,8 +214,8 @@
         <translation>Ndrysho frazkalimin e përdorur per enkriptimin e portofolit</translation>
     </message>
     <message>
-        <source>Husancoin</source>
-        <translation>Husancoin</translation>
+        <source>Husamcoin</source>
+        <translation>Husamcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -784,8 +784,8 @@
         <translation>Opsionet:</translation>
     </message>
     <message>
-        <source>Husancoin Core</source>
-        <translation>Berthama Husancoin</translation>
+        <source>Husamcoin Core</source>
+        <translation>Berthama Husamcoin</translation>
     </message>
     <message>
         <source>Information</source>

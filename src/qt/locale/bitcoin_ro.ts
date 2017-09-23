@@ -142,8 +142,8 @@
         <translation>Deschide &amp;URI...</translation>
     </message>
     <message>
-        <source>Send coins to a Husancoin address</source>
-        <translation>Trimite monedele către o adresă Husancoin</translation>
+        <source>Send coins to a Husamcoin address</source>
+        <translation>Trimite monedele către o adresă Husamcoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -166,8 +166,8 @@
         <translation>&amp;Verifică mesajul...</translation>
     </message>
     <message>
-        <source>Husancoin</source>
-        <translation>Husancoin</translation>
+        <source>Husamcoin</source>
+        <translation>Husamcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -194,12 +194,12 @@
         <translation>Criptează cheile private care aparțin portofelului tău.</translation>
     </message>
     <message>
-        <source>Sign messages with your Husancoin addresses to prove you own them</source>
-        <translation>Semnează mesajele cu adresa ta de Husancoin pentru a face dovada că îți aparțin.</translation>
+        <source>Sign messages with your Husamcoin addresses to prove you own them</source>
+        <translation>Semnează mesajele cu adresa ta de Husamcoin pentru a face dovada că îți aparțin.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Husancoin addresses</source>
-        <translation>Verifică mesajele cu scopul de a asigura faptul că au fost semnate cu adresa de Husancoin specificată.</translation>
+        <source>Verify messages to ensure they were signed with specified Husamcoin addresses</source>
+        <translation>Verifică mesajele cu scopul de a asigura faptul că au fost semnate cu adresa de Husamcoin specificată.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -748,8 +748,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Husancoin Core</source>
-        <translation>Husancoin Core</translation>
+        <source>Husamcoin Core</source>
+        <translation>Husamcoin Core</translation>
     </message>
     <message>
         <source>Information</source>

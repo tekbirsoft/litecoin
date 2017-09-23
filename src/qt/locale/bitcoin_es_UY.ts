@@ -110,16 +110,16 @@
         <translation>Recibiendo direcciones</translation>
     </message>
     <message>
-        <source>Send coins to a Husancoin address</source>
-        <translation>Enviar monedas a una dirección Husancoin</translation>
+        <source>Send coins to a Husamcoin address</source>
+        <translation>Enviar monedas a una dirección Husamcoin</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
         <translation>Cambie la clave utilizada para el cifrado del monedero</translation>
     </message>
     <message>
-        <source>Husancoin</source>
-        <translation>Husancoin</translation>
+        <source>Husamcoin</source>
+        <translation>Husamcoin</translation>
     </message>
     <message>
         <source>Wallet</source>

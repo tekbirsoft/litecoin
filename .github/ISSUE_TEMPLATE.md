@@ -4,7 +4,7 @@ This issue tracker is only for technical issues related to husancoin-core.
 
 General husancoin questions and/or support requests and are best directed to the [husancointalk.io forums](https://husancointalk.io/).
 
-For reporting security issues, please contact the Husancoin developers on the #husancoin-dev Freenode IRC channel or alternatively you can email us at contact@husancoin.org.
+For reporting security issues, please contact the Husamcoin developers on the #husancoin-dev Freenode IRC channel or alternatively you can email us at contact@husancoin.org.
 
 ### Describe the issue
 

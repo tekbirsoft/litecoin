@@ -122,8 +122,8 @@
         <translation>Address king pamag-Tanggap</translation>
     </message>
     <message>
-        <source>Send coins to a Husancoin address</source>
-        <translation>Magpadalang barya king Husancoin address</translation>
+        <source>Send coins to a Husamcoin address</source>
+        <translation>Magpadalang barya king Husamcoin address</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -146,8 +146,8 @@
         <translation>&amp;Beripikan ing message...</translation>
     </message>
     <message>
-        <source>Husancoin</source>
-        <translation>Husancoin</translation>
+        <source>Husamcoin</source>
+        <translation>Husamcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -322,8 +322,8 @@
         <translation>&amp;Network</translation>
     </message>
     <message>
-        <source>Automatically open the Husancoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ibuklat yang antimanu ing Husancoin client port king router. Gagana yamu ini istung ing router mu susuporta yang UPnP at magsilbi ya.</translation>
+        <source>Automatically open the Husamcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ibuklat yang antimanu ing Husamcoin client port king router. Gagana yamu ini istung ing router mu susuporta yang UPnP at magsilbi ya.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -397,8 +397,8 @@
         <translation>Form</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Husancoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Ing makaltong impormasion mapalyaring luma ne. Ing kekang wallet otomatiku yang mag-synchronize keng Husancoin network istung mekakonekta ne king network, oneng ing prosesung ini ali ya pa kumpletu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Husamcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Ing makaltong impormasion mapalyaring luma ne. Ing kekang wallet otomatiku yang mag-synchronize keng Husamcoin network istung mekakonekta ne king network, oneng ing prosesung ini ali ya pa kumpletu.</translation>
     </message>
     <message>
         <source>Your current spendable balance</source>
@@ -655,8 +655,8 @@
         <translation>Kopyan ing kasalungsungan pirma king system clipboard</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Husancoin address</source>
-        <translation>Pirman ing mensayi ban patune na keka ya ining Husancoin address</translation>
+        <source>Sign the message to prove you own this Husamcoin address</source>
+        <translation>Pirman ing mensayi ban patune na keka ya ining Husamcoin address</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -675,8 +675,8 @@
         <translation>&amp;Beripikan ing Mensayi</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Husancoin address</source>
-        <translation>Beripikan ing mensayi ban asiguradu a me pirma ya ini gamit ing mepiling Husancoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified Husamcoin address</source>
+        <translation>Beripikan ing mensayi ban asiguradu a me pirma ya ini gamit ing mepiling Husamcoin address</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -752,8 +752,8 @@
         <translation>Gumana king gulut bilang daemon at tumanggap commands</translation>
     </message>
     <message>
-        <source>Husancoin Core</source>
-        <translation>Kapilubluban ning Husancoin</translation>
+        <source>Husamcoin Core</source>
+        <translation>Kapilubluban ning Husamcoin</translation>
     </message>
     <message>
         <source>Block creation options:</source>

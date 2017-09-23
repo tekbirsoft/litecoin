@@ -130,8 +130,8 @@
         <translation>Kõvakettal olevate plokkide reindekseerimine...</translation>
     </message>
     <message>
-        <source>Husancoin</source>
-        <translation>Husancoin</translation>
+        <source>Husamcoin</source>
+        <translation>Husamcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -760,8 +760,8 @@
         <translation>Valikud:</translation>
     </message>
     <message>
-        <source>Husancoin Core</source>
-        <translation>Husancoin Core</translation>
+        <source>Husamcoin Core</source>
+        <translation>Husamcoin Core</translation>
     </message>
     <message>
         <source>Information</source>

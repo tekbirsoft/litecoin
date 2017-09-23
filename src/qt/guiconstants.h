@@ -48,9 +48,9 @@ static const int MAX_URI_LENGTH = 255;
 /* Number of frames in spinner animation */
 #define SPINNER_FRAMES 36
 
-#define QAPP_ORG_NAME "Husancoin"
+#define QAPP_ORG_NAME "Husamcoin"
 #define QAPP_ORG_DOMAIN "husancoin.org"
-#define QAPP_APP_NAME_DEFAULT "Husancoin-Qt"
-#define QAPP_APP_NAME_TESTNET "Husancoin-Qt-testnet"
+#define QAPP_APP_NAME_DEFAULT "Husamcoin-Qt"
+#define QAPP_APP_NAME_TESTNET "Husamcoin-Qt-testnet"
 
 #endif // BITCOIN_QT_GUICONSTANTS_H

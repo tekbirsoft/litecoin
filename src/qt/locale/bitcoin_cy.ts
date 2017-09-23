@@ -154,8 +154,8 @@
         <translation>Newid y cyfrinymadrodd a ddefnyddiwyd ar gyfer amgryptio'r waled</translation>
     </message>
     <message>
-        <source>Husancoin</source>
-        <translation>Husancoin</translation>
+        <source>Husamcoin</source>
+        <translation>Husamcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -640,8 +640,8 @@
         <translation>Opsiynau:</translation>
     </message>
     <message>
-        <source>Husancoin Core</source>
-        <translation>Craidd Husancoin</translation>
+        <source>Husamcoin Core</source>
+        <translation>Craidd Husamcoin</translation>
     </message>
     <message>
         <source>Information</source>

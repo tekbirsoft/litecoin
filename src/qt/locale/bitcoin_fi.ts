@@ -62,12 +62,12 @@
         <translation>Vastaanotto-osoitteet</translation>
     </message>
     <message>
-        <source>These are your Husancoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Nämä ovat Husancoin-osoitteesi maksujen lähettämistä varten. Tarkista aina määrä ja vastaanotto-osoite ennen kolikoiden lähettämistä.</translation>
+        <source>These are your Husamcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Nämä ovat Husamcoin-osoitteesi maksujen lähettämistä varten. Tarkista aina määrä ja vastaanotto-osoite ennen kolikoiden lähettämistä.</translation>
     </message>
     <message>
-        <source>These are your Husancoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Tässä ovat Husancoin vastaanotto-osoitteesi. On suositeltavaa käyttää uutta vastaanotto-osoitetta jokaista lähetystä varten.</translation>
+        <source>These are your Husamcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Tässä ovat Husamcoin vastaanotto-osoitteesi. On suositeltavaa käyttää uutta vastaanotto-osoitetta jokaista lähetystä varten.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -338,8 +338,8 @@
         <translation>Ladataan lohkoindeksiä...</translation>
     </message>
     <message>
-        <source>Send coins to a Husancoin address</source>
-        <translation>Lähetä kolikoita Husancoin-osoitteeseen</translation>
+        <source>Send coins to a Husamcoin address</source>
+        <translation>Lähetä kolikoita Husamcoin-osoitteeseen</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -362,8 +362,8 @@
         <translation>Varmista &amp;viesti...</translation>
     </message>
     <message>
-        <source>Husancoin</source>
-        <translation>Husancoin</translation>
+        <source>Husamcoin</source>
+        <translation>Husamcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -383,19 +383,19 @@
     </message>
     <message>
         <source>Show or hide the main Window</source>
-        <translation>Näytä tai piilota Husancoin-ikkuna</translation>
+        <translation>Näytä tai piilota Husamcoin-ikkuna</translation>
     </message>
     <message>
         <source>Encrypt the private keys that belong to your wallet</source>
         <translation>Suojaa yksityiset avaimet, jotka kuuluvat lompakkoosi</translation>
     </message>
     <message>
-        <source>Sign messages with your Husancoin addresses to prove you own them</source>
-        <translation>Allekirjoita viestisi omalla Husancoin -osoitteellasi todistaaksesi, että omistat ne</translation>
+        <source>Sign messages with your Husamcoin addresses to prove you own them</source>
+        <translation>Allekirjoita viestisi omalla Husamcoin -osoitteellasi todistaaksesi, että omistat ne</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Husancoin addresses</source>
-        <translation>Varmista, että viestisi on allekirjoitettu määritetyllä Husancoin -osoitteella</translation>
+        <source>Verify messages to ensure they were signed with specified Husamcoin addresses</source>
+        <translation>Varmista, että viestisi on allekirjoitettu määritetyllä Husamcoin -osoitteella</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -434,8 +434,8 @@
         <translation>&amp;Komentorivin valinnat</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Husancoin network</source>
-        <translation><numerusform>%n aktiivinen yhteys Husancoin-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Husancoin-verkkoon</numerusform></translation>
+        <source>%n active connection(s) to Husamcoin network</source>
+        <translation><numerusform>%n aktiivinen yhteys Husamcoin-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Husamcoin-verkkoon</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -478,8 +478,8 @@
         <translation>Rahansiirtohistoria on ajan tasalla</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Husancoin command-line options</source>
-        <translation>Näytä %1 ohjeet saadaksesi listan mahdollisista Husancoinin komentorivivalinnoista</translation>
+        <source>Show the %1 help message to get a list with possible Husamcoin command-line options</source>
+        <translation>Näytä %1 ohjeet saadaksesi listan mahdollisista Husamcoinin komentorivivalinnoista</translation>
     </message>
     <message>
         <source>%1 client</source>
@@ -548,8 +548,8 @@
         <translation>Lompakko on &lt;b&gt;salattu&lt;/b&gt; ja tällä hetkellä &lt;b&gt;lukittuna&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Husancoin can no longer continue safely and will quit.</source>
-        <translation>Peruuttamaton virhe on tapahtunut. Husancoin ei voi enää jatkaa turvallisesti ja sammutetaan.</translation>
+        <source>A fatal error occurred. Husamcoin can no longer continue safely and will quit.</source>
+        <translation>Peruuttamaton virhe on tapahtunut. Husamcoin ei voi enää jatkaa turvallisesti ja sammutetaan.</translation>
     </message>
 </context>
 <context>
@@ -734,8 +734,8 @@
         <translation>Muokkaa lähettävää osoitetta</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Husancoin address.</source>
-        <translation>Antamasi osoite "%1" ei ole kelvollinen Husancoin-osoite.</translation>
+        <source>The entered address "%1" is not a valid Husamcoin address.</source>
+        <translation>Antamasi osoite "%1" ei ole kelvollinen Husamcoin-osoite.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -843,8 +843,8 @@
         <translation>Tämä on ensimmäinen kerta, kun %1 on käynnistetty, joten voit valita data-hakemiston paikan.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Husancoin block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>%1 lataa ja tallentaa kopion Husancoinin lohkoketjusta. Vähintään %2Gt dataa tullaan tallentamaan tähän hakemistoon, ja tarve kasvaa ajan myötä. Lompakko tullaan myös tallentamaan tähän hakemistoon.</translation>
+        <source>%1 will download and store a copy of the Husamcoin block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>%1 lataa ja tallentaa kopion Husamcoinin lohkoketjusta. Vähintään %2Gt dataa tullaan tallentamaan tähän hakemistoon, ja tarve kasvaa ajan myötä. Lompakko tullaan myös tallentamaan tähän hakemistoon.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1020,16 +1020,16 @@
         <translation>&amp;Käytä varmistamattomia vaihtorahoja</translation>
     </message>
     <message>
-        <source>Automatically open the Husancoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa Husancoin-asiakasohjelman portti reitittimellä automaattisesti. Tämä toimii vain, jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
+        <source>Automatically open the Husamcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa Husamcoin-asiakasohjelman portti reitittimellä automaattisesti. Tämä toimii vain, jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Portin uudelleenohjaus &amp;UPnP:llä</translation>
     </message>
     <message>
-        <source>Connect to the Husancoin network through a SOCKS5 proxy.</source>
-        <translation>Yhdistä Husancoin-verkkoon SOCKS5-välityspalvelimen kautta.</translation>
+        <source>Connect to the Husamcoin network through a SOCKS5 proxy.</source>
+        <translation>Yhdistä Husamcoin-verkkoon SOCKS5-välityspalvelimen kautta.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1068,8 +1068,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Husancoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Yhdistä Husancoin-verkkoon erillisen SOCKS5-välityspalvelimen kautta piilotettuja Tor-palveluja varten.</translation>
+        <source>Connect to the Husamcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Yhdistä Husamcoin-verkkoon erillisen SOCKS5-välityspalvelimen kautta piilotettuja Tor-palveluja varten.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services:</source>
@@ -1159,8 +1159,8 @@
         <translation>Lomake</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Husancoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Näytetyt tiedot eivät välttämättä ole ajantasalla. Lompakkosi synkronoituu Husancoin-verkon kanssa automaattisesti yhteyden muodostamisen jälkeen, mutta synkronointi on vielä meneillään.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Husamcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Näytetyt tiedot eivät välttämättä ole ajantasalla. Lompakkosi synkronoituu Husamcoin-verkon kanssa automaattisesti yhteyden muodostamisen jälkeen, mutta synkronointi on vielä meneillään.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1200,7 +1200,7 @@
     </message>
     <message>
         <source>Your current total balance</source>
-        <translation>Tililläsi tällä hetkellä olevien Husancoinien määrä</translation>
+        <translation>Tililläsi tällä hetkellä olevien Husamcoinien määrä</translation>
     </message>
     <message>
         <source>Your current balance in watch-only addresses</source>
@@ -1252,8 +1252,8 @@
         <translation>Määrä</translation>
     </message>
     <message>
-        <source>Enter a Husancoin address (e.g. %1)</source>
-        <translation>Syötä Husancoin-osoite (esim. %1)</translation>
+        <source>Enter a Husamcoin address (e.g. %1)</source>
+        <translation>Syötä Husamcoin-osoite (esim. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1620,8 +1620,8 @@
         <translation>&amp;Uudelleenkäytä vastaanotto-osoitetta (ei suositella)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Husancoin network.</source>
-        <translation>Valinnainen viesti liitetään maksupyyntöön ja näytetään avattaessa. Viestiä ei lähetetä Husancoin-verkkoon.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Husamcoin network.</source>
+        <translation>Valinnainen viesti liitetään maksupyyntöön ja näytetään avattaessa. Viestiä ei lähetetä Husamcoin-verkkoon.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1746,7 +1746,7 @@
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Lähetä Husancoineja</translation>
+        <translation>Lähetä Husamcoineja</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
@@ -1940,8 +1940,8 @@
         <translation>Tämä on normaali maksu.</translation>
     </message>
     <message>
-        <source>The Husancoin address to send the payment to</source>
-        <translation>Husancoin-osoite johon maksu lähetetään</translation>
+        <source>The Husamcoin address to send the payment to</source>
+        <translation>Husamcoin-osoite johon maksu lähetetään</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1984,8 +1984,8 @@
         <translation>Aseta nimi tälle osoitteelle lisätäksesi sen käytettyjen osoitteiden listalle.</translation>
     </message>
     <message>
-        <source>A message that was attached to the husancoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Husancoin network.</source>
-        <translation>Viesti joka liitettiin husancoin: URI:iin tallennetaan rahansiirtoon viitteeksi. Tätä viestiä ei lähetetä Husancoin-verkkoon.</translation>
+        <source>A message that was attached to the husancoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Husamcoin network.</source>
+        <translation>Viesti joka liitettiin husancoin: URI:iin tallennetaan rahansiirtoon viitteeksi. Tätä viestiä ei lähetetä Husamcoin-verkkoon.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2025,8 +2025,8 @@
         <translation>&amp;Allekirjoita viesti</translation>
     </message>
     <message>
-        <source>The Husancoin address to sign the message with</source>
-        <translation>Husancoin-osoite jolla viesti allekirjoitetaan</translation>
+        <source>The Husamcoin address to sign the message with</source>
+        <translation>Husamcoin-osoite jolla viesti allekirjoitetaan</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2057,8 +2057,8 @@
         <translation>Kopioi tämänhetkinen allekirjoitus leikepöydälle</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Husancoin address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän Husancoin-osoitteen</translation>
+        <source>Sign the message to prove you own this Husamcoin address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän Husamcoin-osoitteen</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2077,12 +2077,12 @@
         <translation>&amp;Varmista viesti</translation>
     </message>
     <message>
-        <source>The Husancoin address the message was signed with</source>
-        <translation>Husancoin-osoite jolla viesti on allekirjoitettu</translation>
+        <source>The Husamcoin address the message was signed with</source>
+        <translation>Husamcoin-osoite jolla viesti on allekirjoitettu</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Husancoin address</source>
-        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä Husancoin-osoitteella</translation>
+        <source>Verify the message to ensure it was signed with the specified Husamcoin address</source>
+        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä Husamcoin-osoitteella</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2430,8 +2430,8 @@
         <translation>HTTP-palvelinta ei voitu käynnistää. Katso debug-lokista lisätietoja.</translation>
     </message>
     <message>
-        <source>Husancoin Core</source>
-        <translation>Husancoin-ydin</translation>
+        <source>Husamcoin Core</source>
+        <translation>Husamcoin-ydin</translation>
     </message>
     <message>
         <source>The %s developers</source>

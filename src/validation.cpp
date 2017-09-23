@@ -50,7 +50,7 @@
 #include <boost/thread.hpp>
 
 #if defined(NDEBUG)
-# error "Husancoin cannot be compiled without assertions."
+# error "Husamcoin cannot be compiled without assertions."
 #endif
 
 /**
@@ -92,7 +92,7 @@ static void CheckBlockIndex(const Consensus::Params& consensusParams);
 /** Constant stuff for coinbase transactions we create: */
 CScript COINBASE_FLAGS;
 
-const std::string strMessageMagic = "Husancoin Signed Message:\n";
+const std::string strMessageMagic = "Husamcoin Signed Message:\n";
 
 // Internal stuff
 namespace {

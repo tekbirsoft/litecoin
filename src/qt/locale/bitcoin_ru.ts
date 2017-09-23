@@ -62,12 +62,12 @@
         <translation>Адреса получения</translation>
     </message>
     <message>
-        <source>These are your Husancoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Это ваши адреса Husancoin для отправки платежей. Всегда проверяйте сумму и адрес получателя перед отправкой перевода.</translation>
+        <source>These are your Husamcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Это ваши адреса Husamcoin для отправки платежей. Всегда проверяйте сумму и адрес получателя перед отправкой перевода.</translation>
     </message>
     <message>
-        <source>These are your Husancoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Это ваши адреса Husancoin для приёма платежей. Рекомендуется использовать новый адрес получения для каждой транзакции.</translation>
+        <source>These are your Husamcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Это ваши адреса Husamcoin для приёма платежей. Рекомендуется использовать новый адрес получения для каждой транзакции.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -338,8 +338,8 @@
         <translation>Идёт переиндексация блоков на диске...</translation>
     </message>
     <message>
-        <source>Send coins to a Husancoin address</source>
-        <translation>Отправить монеты на указанный адрес Husancoin</translation>
+        <source>Send coins to a Husamcoin address</source>
+        <translation>Отправить монеты на указанный адрес Husamcoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -362,8 +362,8 @@
         <translation>&amp;Проверить сообщение...</translation>
     </message>
     <message>
-        <source>Husancoin</source>
-        <translation>Husancoin</translation>
+        <source>Husamcoin</source>
+        <translation>Husamcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -390,12 +390,12 @@
         <translation>Зашифровать приватные ключи, принадлежащие вашему бумажнику</translation>
     </message>
     <message>
-        <source>Sign messages with your Husancoin addresses to prove you own them</source>
-        <translation>Подписать сообщения вашим адресом Husancoin, чтобы доказать, что вы им владеете</translation>
+        <source>Sign messages with your Husamcoin addresses to prove you own them</source>
+        <translation>Подписать сообщения вашим адресом Husamcoin, чтобы доказать, что вы им владеете</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Husancoin addresses</source>
-        <translation>Проверить сообщения, чтобы удостовериться, что они были подписаны определённым адресом Husancoin</translation>
+        <source>Verify messages to ensure they were signed with specified Husamcoin addresses</source>
+        <translation>Проверить сообщения, чтобы удостовериться, что они были подписаны определённым адресом Husamcoin</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -434,8 +434,8 @@
         <translation>&amp;Параметры командной строки</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Husancoin network</source>
-        <translation><numerusform>%n активных соединений с сетью Husancoin</numerusform><numerusform>%n активных соединений с сетью Husancoin</numerusform><numerusform>%n активных соединений с сетью Husancoin</numerusform><numerusform>%n активных соединений с сетью Husancoin</numerusform></translation>
+        <source>%n active connection(s) to Husamcoin network</source>
+        <translation><numerusform>%n активных соединений с сетью Husamcoin</numerusform><numerusform>%n активных соединений с сетью Husamcoin</numerusform><numerusform>%n активных соединений с сетью Husamcoin</numerusform><numerusform>%n активных соединений с сетью Husamcoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -478,7 +478,7 @@
         <translation>Синхронизировано</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Husancoin command-line options</source>
+        <source>Show the %1 help message to get a list with possible Husamcoin command-line options</source>
         <translation>Показать помощь по %1, чтобы получить список доступных параметров командной строки</translation>
     </message>
     <message>
@@ -548,8 +548,8 @@
         <translation>Бумажник &lt;b&gt;зашифрован&lt;/b&gt; и в настоящее время &lt;b&gt;заблокирован&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Husancoin can no longer continue safely and will quit.</source>
-        <translation>Произошла неисправимая ошибка. Husancoin не может безопасно продолжать работу и будет закрыт.</translation>
+        <source>A fatal error occurred. Husamcoin can no longer continue safely and will quit.</source>
+        <translation>Произошла неисправимая ошибка. Husamcoin не может безопасно продолжать работу и будет закрыт.</translation>
     </message>
 </context>
 <context>
@@ -742,8 +742,8 @@
         <translation>Изменить адрес отправки</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Husancoin address.</source>
-        <translation>Введённый адрес "%1" не является правильным Husancoin-адресом.</translation>
+        <source>The entered address "%1" is not a valid Husamcoin address.</source>
+        <translation>Введённый адрес "%1" не является правильным Husamcoin-адресом.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -851,7 +851,7 @@
         <translation>При первом запуске программы вы можете выбрать где %1 будет хранить свои данные.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Husancoin block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>%1 will download and store a copy of the Husamcoin block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>%1 скачает и сохранит копию цепи блоков. Как минимум %2GB будут записаны в этот каталог, и со временем он будет расти. Бумажник также будет сохранен в этом каталоге.</translation>
     </message>
     <message>
@@ -1048,20 +1048,20 @@
         <translation>&amp;Тратить неподтверждённую сдачу</translation>
     </message>
     <message>
-        <source>Automatically open the Husancoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть порт для Husancoin-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
+        <source>Automatically open the Husamcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть порт для Husamcoin-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Пробросить порт через &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Husancoin network through a SOCKS5 proxy.</source>
-        <translation>Подключаться к сети Husancoin через прокси SOCKS5</translation>
+        <source>Connect to the Husamcoin network through a SOCKS5 proxy.</source>
+        <translation>Подключаться к сети Husamcoin через прокси SOCKS5</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
-        <translation>&amp;Подключаться к сети Husancoin через прокси SOCKS5 (прокси по умолчанию):</translation>
+        <translation>&amp;Подключаться к сети Husamcoin через прокси SOCKS5 (прокси по умолчанию):</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1096,8 +1096,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Husancoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Подключаться к сети Husancoin через прокси SOCKS5 для скрытых сервисов Tor.</translation>
+        <source>Connect to the Husamcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Подключаться к сети Husamcoin через прокси SOCKS5 для скрытых сервисов Tor.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services:</source>
@@ -1195,8 +1195,8 @@
         <translation>Форма</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Husancoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью Husancoin после подключения, но этот процесс пока не завершён.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Husamcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью Husamcoin после подключения, но этот процесс пока не завершён.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1286,8 +1286,8 @@
         <translation>Неверный адрес платежа %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Husancoin address or malformed URI parameters.</source>
-        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом Husancoin или неправильными параметрами URI.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Husamcoin address or malformed URI parameters.</source>
+        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом Husamcoin или неправильными параметрами URI.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1380,8 +1380,8 @@
         <translation>Сумма</translation>
     </message>
     <message>
-        <source>Enter a Husancoin address (e.g. %1)</source>
-        <translation>Введите адрес Husancoin (например, %1)</translation>
+        <source>Enter a Husamcoin address (e.g. %1)</source>
+        <translation>Введите адрес Husamcoin (например, %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1804,8 +1804,8 @@
         <translation>&amp;Повторно использовать существующий адрес получения (не рекомендуется)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Husancoin network.</source>
-        <translation>Необязательное сообщение для запроса платежа, которое будет показано при открытии запроса. Заметьте: сообщение не будет отправлено вместе с платежом через сеть Husancoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Husamcoin network.</source>
+        <translation>Необязательное сообщение для запроса платежа, которое будет показано при открытии запроса. Заметьте: сообщение не будет отправлено вместе с платежом через сеть Husamcoin.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2201,8 +2201,8 @@
         <translation><numerusform>Начало подтверждения ожидается через %n блок.</numerusform><numerusform>Начало подтверждения ожидается через %n блока.</numerusform><numerusform>Начало подтверждения ожидается через %n блоков.</numerusform><numerusform>Начало подтверждения ожидается через %n блоков.</numerusform></translation>
     </message>
     <message>
-        <source>Warning: Invalid Husancoin address</source>
-        <translation>Внимание: неверный адрес Husancoin</translation>
+        <source>Warning: Invalid Husamcoin address</source>
+        <translation>Внимание: неверный адрес Husamcoin</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2244,8 +2244,8 @@
         <translation>Это нормальный платёж.</translation>
     </message>
     <message>
-        <source>The Husancoin address to send the payment to</source>
-        <translation>Адрес Husancoin, на который отправить платёж</translation>
+        <source>The Husamcoin address to send the payment to</source>
+        <translation>Адрес Husamcoin, на который отправить платёж</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2288,8 +2288,8 @@
         <translation>Введите метку для этого адреса, чтобы добавить его в список использованных</translation>
     </message>
     <message>
-        <source>A message that was attached to the husancoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Husancoin network.</source>
-        <translation>К husancoin: URI было прикреплено сообщение, которое будет сохранено вместе с транзакцией для вашего сведения. Заметьте: сообщение не будет отправлено через сеть Husancoin.</translation>
+        <source>A message that was attached to the husancoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Husamcoin network.</source>
+        <translation>К husancoin: URI было прикреплено сообщение, которое будет сохранено вместе с транзакцией для вашего сведения. Заметьте: сообщение не будет отправлено через сеть Husamcoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2337,8 +2337,8 @@
         <translation>Вы можете подписывать сообщения/соглашения своими адресами, чтобы доказать свою возможность получать биткоины на них. Будьте осторожны, не подписывайте что-то неопределённое или случайное, так как фишинговые атаки могут обманным путём заставить вас подписать нежелательные сообщения. Подписывайте только те сообщения, с которыми вы согласны вплоть до мелочей.</translation>
     </message>
     <message>
-        <source>The Husancoin address to sign the message with</source>
-        <translation>Адрес Husancoin, которым подписать сообщение</translation>
+        <source>The Husamcoin address to sign the message with</source>
+        <translation>Адрес Husamcoin, которым подписать сообщение</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2369,8 +2369,8 @@
         <translation>Скопировать текущую подпись в системный буфер обмена</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Husancoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом Husancoin</translation>
+        <source>Sign the message to prove you own this Husamcoin address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом Husamcoin</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2393,12 +2393,12 @@
         <translation>Введите ниже адрес получателя, сообщение (убедитесь, что переводы строк, пробелы, табы и т.п. в точности скопированы) и подпись, чтобы проверить сообщение. Убедитесь, что не скопировали лишнего в подпись, по сравнению с самим подписываемым сообщением, чтобы не стать жертвой атаки "man-in-the-middle". Заметьте, что эта операция удостоверяет лишь авторство подписавшего, но не может удостоверить отправителя транзакции.</translation>
     </message>
     <message>
-        <source>The Husancoin address the message was signed with</source>
-        <translation>Адрес Husancoin, которым было подписано сообщение</translation>
+        <source>The Husamcoin address the message was signed with</source>
+        <translation>Адрес Husamcoin, которым было подписано сообщение</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Husancoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Husancoin</translation>
+        <source>Verify the message to ensure it was signed with the specified Husamcoin address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Husamcoin</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -3058,8 +3058,8 @@
         <translation>Невозможно запустить HTTP сервер. Смотри debug лог для подробностей.</translation>
     </message>
     <message>
-        <source>Husancoin Core</source>
-        <translation>Husancoin Core</translation>
+        <source>Husamcoin Core</source>
+        <translation>Husamcoin Core</translation>
     </message>
     <message>
         <source>The %s developers</source>

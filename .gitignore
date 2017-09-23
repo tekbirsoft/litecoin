@@ -75,7 +75,7 @@ src/qt/test/moc*.cpp
 *.qm
 Makefile
 husancoin-qt
-Husancoin-Qt.app
+Husamcoin-Qt.app
 
 # Unit-tests
 Makefile.test

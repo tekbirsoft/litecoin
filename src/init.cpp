@@ -815,7 +815,7 @@ void InitLogging()
     fLogIPs = gArgs.GetBoolArg("-logips", DEFAULT_LOGIPS);
 
     LogPrintf("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
-    LogPrintf("Husancoin version %s\n", FormatFullVersion());
+    LogPrintf("Husamcoin version %s\n", FormatFullVersion());
 }
 
 namespace { // Variables internal to initialization process only

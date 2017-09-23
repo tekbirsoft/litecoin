@@ -70,7 +70,7 @@
         <translation>Құпия сөзді өзгерту</translation>
     </message>
     <message>
-        <source>Husancoin</source>
+        <source>Husamcoin</source>
         <translation>Биткоин</translation>
     </message>
     <message>

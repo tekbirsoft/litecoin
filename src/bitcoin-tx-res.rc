@@ -16,8 +16,8 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Husancoin"
-            VALUE "FileDescription",    "husancoin-tx (CLI Husancoin transaction editor utility)"
+            VALUE "CompanyName",        "Husamcoin"
+            VALUE "FileDescription",    "husancoin-tx (CLI Husamcoin transaction editor utility)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "husancoin-tx"
             VALUE "LegalCopyright",     COPYRIGHT_STR

@@ -58,12 +58,12 @@
         <translation>Adresa na koju se prima</translation>
     </message>
     <message>
-        <source>These are your Husancoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ovo su Vaše Husancoin adrese na koju se vrše uplate. Uvek proverite iznos i prijemnu adresu pre slanja novčića</translation>
+        <source>These are your Husamcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ovo su Vaše Husamcoin adrese na koju se vrše uplate. Uvek proverite iznos i prijemnu adresu pre slanja novčića</translation>
     </message>
     <message>
-        <source>These are your Husancoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Ovo su Vaše Husancoin adrese za primanje uplata. Preporučuje se upotreba nove adrese za svaku transakciju.</translation>
+        <source>These are your Husamcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Ovo su Vaše Husamcoin adrese za primanje uplata. Preporučuje se upotreba nove adrese za svaku transakciju.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -198,16 +198,16 @@
         <translation>Otvori &amp;URI...</translation>
     </message>
     <message>
-        <source>Send coins to a Husancoin address</source>
-        <translation>Pošalji novčiće na Husancoin adresu</translation>
+        <source>Send coins to a Husamcoin address</source>
+        <translation>Pošalji novčiće na Husamcoin adresu</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
         <translation>&amp;Proveri poruku...</translation>
     </message>
     <message>
-        <source>Husancoin</source>
-        <translation>Husancoin</translation>
+        <source>Husamcoin</source>
+        <translation>Husamcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -446,8 +446,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Husancoin Core</source>
-        <translation>Husancoin Core</translation>
+        <source>Husamcoin Core</source>
+        <translation>Husamcoin Core</translation>
     </message>
     <message>
         <source>Information</source>

@@ -238,8 +238,8 @@
         <translation>Réindexer les blocs sur le disque...</translation>
     </message>
     <message>
-        <source>Send coins to a Husancoin address</source>
-        <translation>Envoyer des pièces à une adresse Husancoin</translation>
+        <source>Send coins to a Husamcoin address</source>
+        <translation>Envoyer des pièces à une adresse Husamcoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -262,8 +262,8 @@
         <translation>&amp;Vérification du message</translation>
     </message>
     <message>
-        <source>Husancoin</source>
-        <translation>Husancoin</translation>
+        <source>Husamcoin</source>
+        <translation>Husamcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -290,8 +290,8 @@
         <translation>Crypter les clé privées qui appartiennent votre portefeuille</translation>
     </message>
     <message>
-        <source>Sign messages with your Husancoin addresses to prove you own them</source>
-        <translation>Signer vos messages avec vos adresses Husancoin pour prouver que vous les détenez</translation>
+        <source>Sign messages with your Husamcoin addresses to prove you own them</source>
+        <translation>Signer vos messages avec vos adresses Husamcoin pour prouver que vous les détenez</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -326,8 +326,8 @@
         <translation>&amp;Options de ligne de commande</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Husancoin network</source>
-        <translation><numerusform>%n connexion active au réseau Husancoin</numerusform><numerusform>%n connexions actives au réseau Husancoin</numerusform></translation>
+        <source>%n active connection(s) to Husamcoin network</source>
+        <translation><numerusform>%n connexion active au réseau Husamcoin</numerusform><numerusform>%n connexions actives au réseau Husamcoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -712,8 +712,8 @@
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically open the Husancoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouvrir le port du client Husancoin automatiquement sur le routeur. Cela ne fonctionne que si votre routeur supporte l'UPnP et si la fonctionnalité est activée.</translation>
+        <source>Automatically open the Husamcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouvrir le port du client Husamcoin automatiquement sur le routeur. Cela ne fonctionne que si votre routeur supporte l'UPnP et si la fonctionnalité est activée.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -872,8 +872,8 @@
         <translation>Montant</translation>
     </message>
     <message>
-        <source>Enter a Husancoin address (e.g. %1)</source>
-        <translation>Entrer une adresse Husancoin (e.g. %1)</translation>
+        <source>Enter a Husamcoin address (e.g. %1)</source>
+        <translation>Entrer une adresse Husamcoin (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1734,8 +1734,8 @@
         <translation>Impossible de démarrer le serveur HTTP. Voir le journal de débogage pour plus de détails.</translation>
     </message>
     <message>
-        <source>Husancoin Core</source>
-        <translation>Husancoin Core</translation>
+        <source>Husamcoin Core</source>
+        <translation>Husamcoin Core</translation>
     </message>
     <message>
         <source>&lt;category&gt; can be:</source>

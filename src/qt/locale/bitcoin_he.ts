@@ -62,11 +62,11 @@
         <translation>כתובות לקבלה</translation>
     </message>
     <message>
-        <source>These are your Husancoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Husamcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>אלו הן כתובות לייטקוין שלך לשליחת תשלומים. חשוב לבדוק את כמות הכתובות המקבלות לפני שליחת מטבעות.</translation>
     </message>
     <message>
-        <source>These are your Husancoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Husamcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>אלו הן כתובות לייטקוין שלך לקבלת תשלומים. מומלץ להשתמש בכתובת חדשה לכל העברה.</translation>
     </message>
     <message>
@@ -338,7 +338,7 @@
         <translation>המקטעים נוספים למפתח בכונן…</translation>
     </message>
     <message>
-        <source>Send coins to a Husancoin address</source>
+        <source>Send coins to a Husamcoin address</source>
         <translation>שליחת מטבעות לכתובת לייטקוין</translation>
     </message>
     <message>
@@ -362,7 +362,7 @@
         <translation>&amp;אימות הודעה…</translation>
     </message>
     <message>
-        <source>Husancoin</source>
+        <source>Husamcoin</source>
         <translation>לייטקוין</translation>
     </message>
     <message>
@@ -390,11 +390,11 @@
         <translation>הצפנת המפתחות הפרטיים ששייכים לארנק שלך</translation>
     </message>
     <message>
-        <source>Sign messages with your Husancoin addresses to prove you own them</source>
+        <source>Sign messages with your Husamcoin addresses to prove you own them</source>
         <translation>חתום על הודעות עם כתובות לייטקוין שלך כדי להוכיח שהן בבעלותך</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Husancoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified Husamcoin addresses</source>
         <translation>אמת הודעות כדי להבטיח שהן נחתמו עם כתובת לייטקוין מסוימות</translation>
     </message>
     <message>
@@ -434,7 +434,7 @@
         <translation>אפשרויות &amp;שורת הפקודה</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Husancoin network</source>
+        <source>%n active connection(s) to Husamcoin network</source>
         <translation><numerusform>חיבור אחד פעיל לרשת לייטקוין</numerusform><numerusform>%n חיבורים פעילים לרשת לייטקוין</numerusform></translation>
     </message>
     <message>
@@ -470,7 +470,7 @@
         <translation>עדכני</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Husancoin command-line options</source>
+        <source>Show the %1 help message to get a list with possible Husamcoin command-line options</source>
         <translation>יש להציג את הודעת העזרה של %1 כדי להציג רשימה עם אפשרויות שורת פקודה לייטקוין</translation>
     </message>
     <message>
@@ -532,7 +532,7 @@
         <translation>הארנק &lt;b&gt;מוצפן&lt;/b&gt; ו&lt;b&gt;נעול&lt;/b&gt; כרגע</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Husancoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Husamcoin can no longer continue safely and will quit.</source>
         <translation>אירעה שגיאה חמורה. אין אפשרות להשתמש עוד בלייטקוין באופן מאובטח והיישום ייסגר.</translation>
     </message>
 </context>
@@ -714,7 +714,7 @@
         <translation>עריכת כתובת השליחה</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Husancoin address.</source>
+        <source>The entered address "%1" is not a valid Husamcoin address.</source>
         <translation>הכתובת שהוקלדה „%1” היא אינה כתובת לייטקוין תקנית.</translation>
     </message>
     <message>
@@ -996,7 +996,7 @@
         <translation>עודף &amp;בלתי מאושר מההשקעה</translation>
     </message>
     <message>
-        <source>Automatically open the Husancoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Husamcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>פתיחת הפתחה של לייטקוין בנתב באופן אוטומטי. עובד רק אם UPnP מופעל ונתמך בנתב.</translation>
     </message>
     <message>
@@ -1004,7 +1004,7 @@
         <translation>מיפוי פתחה באמצעות UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Husancoin network through a SOCKS5 proxy.</source>
+        <source>Connect to the Husamcoin network through a SOCKS5 proxy.</source>
         <translation>התחבר לרשת לייטקוין דרך פרוקסי SOCKS5.</translation>
     </message>
     <message>
@@ -1123,7 +1123,7 @@
         <translation>טופס</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Husancoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Husamcoin network after a connection is established, but this process has not completed yet.</source>
         <translation>המידע המוצג עשוי להיות מיושן. הארנק שלך מסתנכרן באופן אוטומטי עם רשת לייטקוין לאחר יצירת החיבור, אך התהליך טרם הסתיים.</translation>
     </message>
     <message>
@@ -1272,7 +1272,7 @@
         <translation>כמות</translation>
     </message>
     <message>
-        <source>Enter a Husancoin address (e.g. %1)</source>
+        <source>Enter a Husamcoin address (e.g. %1)</source>
         <translation>נא להזין כתובת לייטקוין (למשל: %1)</translation>
     </message>
     <message>
@@ -1672,7 +1672,7 @@
         <translation>ש&amp;ימוש &amp;חוזר בכתובת קבלה קיימת (לא מומלץ)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Husancoin network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Husamcoin network.</source>
         <translation>הודעת רשות לצירוף לבקשת התשלום שתוצג בעת פתיחת הבקשה. לתשומת לבך: ההודעה לא תישלח עם התשלום ברשת לייטקוין.</translation>
     </message>
     <message>
@@ -2029,7 +2029,7 @@
         <translation>תשלום של העמלה הנדרשת בלבד על סך %1</translation>
     </message>
     <message>
-        <source>Warning: Invalid Husancoin address</source>
+        <source>Warning: Invalid Husamcoin address</source>
         <translation>אזהרה: כתובת ביטקיון שגויה</translation>
     </message>
     <message>
@@ -2072,7 +2072,7 @@
         <translation>זהו תשלום רגיל.</translation>
     </message>
     <message>
-        <source>The Husancoin address to send the payment to</source>
+        <source>The Husamcoin address to send the payment to</source>
         <translation>כתובת לייטקוין של המוטב</translation>
     </message>
     <message>
@@ -2112,7 +2112,7 @@
         <translation>יש להזין תווית עבור כתובת זו כדי להוסיף אותה לרשימת הכתובות בשימוש</translation>
     </message>
     <message>
-        <source>A message that was attached to the husancoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Husancoin network.</source>
+        <source>A message that was attached to the husancoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Husamcoin network.</source>
         <translation>הודעה שצורפה לייטקוין: כתובת שתאוחסן בהעברה לצורך מעקב מצדך. לתשומת לבך: הודעה זו לא תישלח ברשת לייטקוין.</translation>
     </message>
     <message>
@@ -2153,7 +2153,7 @@
         <translation>חתימה על הו&amp;דעה</translation>
     </message>
     <message>
-        <source>The Husancoin address to sign the message with</source>
+        <source>The Husamcoin address to sign the message with</source>
         <translation>כתובת לייטקוין אתה לחתום אתה את ההודעה</translation>
     </message>
     <message>
@@ -2185,7 +2185,7 @@
         <translation>העתקת החתימה הנוכחית ללוח הגזירים</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Husancoin address</source>
+        <source>Sign the message to prove you own this Husamcoin address</source>
         <translation>ניתן לחתום על ההודעה כדי להוכיח שכתובת לייטקוין הזו בבעלותך.</translation>
     </message>
     <message>
@@ -2205,11 +2205,11 @@
         <translation>&amp;אימות הודעה</translation>
     </message>
     <message>
-        <source>The Husancoin address the message was signed with</source>
+        <source>The Husamcoin address the message was signed with</source>
         <translation>כתובת לייטקוין שאתה נחתמה ההודעה</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Husancoin address</source>
+        <source>Verify the message to ensure it was signed with the specified Husamcoin address</source>
         <translation>ניתן לאמת את ההודעה כדי להבטיח שהיא נחתמה עם כתובת לייטקוין הנתונה</translation>
     </message>
     <message>
@@ -2714,7 +2714,7 @@
         <translation>ריצה כסוכן ברקע וקבלת פקודות</translation>
     </message>
     <message>
-        <source>Husancoin Core</source>
+        <source>Husamcoin Core</source>
         <translation>ליבת לייטקוין</translation>
     </message>
     <message>

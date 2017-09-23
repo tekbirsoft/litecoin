@@ -24,7 +24,7 @@ If you want to build the disk image with `make deploy` (.dmg / optional), you ne
 
 NOTE: Building with Qt4 is still supported, however, could result in a broken UI. Building with Qt5 is recommended.
 
-Build Husancoin Core
+Build Husamcoin Core
 ------------------------
 
 1. Clone the husancoin source code and cd into `husancoin`
@@ -53,19 +53,19 @@ Build Husancoin Core
 Running
 -------
 
-Husancoin Core is now available at `./src/husancoind`
+Husamcoin Core is now available at `./src/husancoind`
 
 Before running, it's recommended you create an RPC configuration file.
 
-    echo -e "rpcuser=husancoinrpc\nrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/Husancoin/husancoin.conf"
+    echo -e "rpcuser=husancoinrpc\nrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/Husamcoin/husancoin.conf"
 
-    chmod 600 "/Users/${USER}/Library/Application Support/Husancoin/husancoin.conf"
+    chmod 600 "/Users/${USER}/Library/Application Support/Husamcoin/husancoin.conf"
 
 The first time you run husancoind, it will start downloading the blockchain. This process could take several hours.
 
 You can monitor the download process by looking at the debug.log file:
 
-    tail -f $HOME/Library/Application\ Support/Husancoin/debug.log
+    tail -f $HOME/Library/Application\ Support/Husamcoin/debug.log
 
 Other commands:
 -------

@@ -114,8 +114,8 @@
         <translation>Reindexando bloques en el disco...</translation>
     </message>
     <message>
-        <source>Send coins to a Husancoin address</source>
-        <translation>Enviar monedas a una dirección Husancoin</translation>
+        <source>Send coins to a Husamcoin address</source>
+        <translation>Enviar monedas a una dirección Husamcoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -130,8 +130,8 @@
         <translation>Abre la consola de depuración y diágnostico</translation>
     </message>
     <message>
-        <source>Husancoin</source>
-        <translation>Husancoin</translation>
+        <source>Husamcoin</source>
+        <translation>Husamcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -158,12 +158,12 @@
         <translation>Encriptar las llaves privadas que pertenecen a tu billetera</translation>
     </message>
     <message>
-        <source>Sign messages with your Husancoin addresses to prove you own them</source>
-        <translation>Firma mensajes con tus direcciones Husancoin para probar que eres dueño de ellas</translation>
+        <source>Sign messages with your Husamcoin addresses to prove you own them</source>
+        <translation>Firma mensajes con tus direcciones Husamcoin para probar que eres dueño de ellas</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Husancoin addresses</source>
-        <translation>Verificar mensajes para asegurar que estaban firmados con direcciones Husancoin especificas</translation>
+        <source>Verify messages to ensure they were signed with specified Husamcoin addresses</source>
+        <translation>Verificar mensajes para asegurar que estaban firmados con direcciones Husamcoin especificas</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -608,8 +608,8 @@
         <translation>Correr en segundo plano como daemon y aceptar comandos</translation>
     </message>
     <message>
-        <source>Husancoin Core</source>
-        <translation>Husancoin Core</translation>
+        <source>Husamcoin Core</source>
+        <translation>Husamcoin Core</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>

@@ -29,16 +29,16 @@
   <string>????</string>
 
   <key>CFBundleExecutable</key>
-  <string>Husancoin-Qt</string>
+  <string>Husamcoin-Qt</string>
   
   <key>CFBundleName</key>
-  <string>Husancoin-Qt</string>
+  <string>Husamcoin-Qt</string>
 
   <key>LSHasLocalizedDisplayName</key>
   <true/>
 
   <key>CFBundleIdentifier</key>
-  <string>org.husancoin.Husancoin-Qt</string>
+  <string>org.husancoin.Husamcoin-Qt</string>
 
   <key>CFBundleURLTypes</key>
   <array>
@@ -46,7 +46,7 @@
       <key>CFBundleTypeRole</key>
       <string>Editor</string>
       <key>CFBundleURLName</key>
-      <string>org.husancoin.HusancoinPayment</string>
+      <string>org.husancoin.HusamcoinPayment</string>
       <key>CFBundleURLSchemes</key>
       <array>
         <string>husancoin</string>
@@ -60,7 +60,7 @@
       <key>UTTypeIdentifier</key>
       <string>org.husancoin.paymentrequest</string>
       <key>UTTypeDescription</key>
-      <string>Husancoin payment request</string>
+      <string>Husamcoin payment request</string>
       <key>UTTypeConformsTo</key>
       <array>
         <string>public.data</string>

@@ -38,9 +38,9 @@ def check_json_precision():
 def determine_db_dir():
     """Return the default location of the husancoin data directory"""
     if platform.system() == "Darwin":
-        return os.path.expanduser("~/Library/Application Support/Husancoin/")
+        return os.path.expanduser("~/Library/Application Support/Husamcoin/")
     elif platform.system() == "Windows":
-        return os.path.join(os.environ['APPDATA'], "Husancoin")
+        return os.path.join(os.environ['APPDATA'], "Husamcoin")
     return os.path.expanduser("~/.husancoin")
 
 def read_bitcoin_config(dbdir):

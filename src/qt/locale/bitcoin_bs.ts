@@ -14,8 +14,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Husancoin</source>
-        <translation>Husancoin</translation>
+        <source>Husamcoin</source>
+        <translation>Husamcoin</translation>
     </message>
     </context>
 <context>
@@ -156,8 +156,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Husancoin Core</source>
-        <translation>Husancoin Jezrga</translation>
+        <source>Husamcoin Core</source>
+        <translation>Husamcoin Jezrga</translation>
     </message>
     </context>
 </TS>

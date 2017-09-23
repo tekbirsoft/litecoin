@@ -785,7 +785,7 @@ void SendCoinsDialog::coinControlChangeEdited(const QString& text)
         }
         else if (!addr.IsValid()) // Invalid address
         {
-            ui->labelCoinControlChangeLabel->setText(tr("Warning: Invalid Husancoin address"));
+            ui->labelCoinControlChangeLabel->setText(tr("Warning: Invalid Husamcoin address"));
         }
         else // Valid address
         {
